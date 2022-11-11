@@ -2,8 +2,8 @@ package entities;
 
 public class Operadores {
 
-	Double num1;
-	Double num2;
+	private Double num1;
+	private Double num2;
 	
 	public Operadores(Double num1, Double num2) {
 		this.num1 = num1;
